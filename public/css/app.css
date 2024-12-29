@@ -1,0 +1,94 @@
+/* 
+FDF7F4
+FFF0DC
+F0BB78
+543A14
+131010 
+*/
+
+/* 
+
+C4804F
+802E00
+FFE9C7
+*/
+
+body {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ffe9c7;
+}
+
+hr {
+    color: #802e00;
+}
+
+.tltcus {
+    font-size: 48px;
+}
+
+.imgmycus {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.list-group-item {
+    background-color: #ffe9c7;
+    border: none;
+}
+
+.blockquote-footer {
+    color: #802e00;
+}
+
+.text-dark {
+    color: #000000;
+}
+
+.card-img {
+    border-radius: 0 !important;
+}
+
+.card {
+    border-radius: 0 !important; /* Menghilangkan border radius dari seluruh card */
+}
+
+.custom-hero {
+    max-height: 700px;
+    width: 100%;
+    object-fit: cover;
+    filter: brightness(50%);
+}
+
+.card-img-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    background-color: rgba(196, 128, 79, 0.5);
+}
+
+/* Menu */
+.cus-badge {
+    background-color: #c4804f;
+    color: #ffffff !important;
+}
+
+/* Menu-end */
+
+/* footer {
+    height: 200px;
+    background-color: #131010;
+} */
+
+/* 
+@media (max-width: 768px) {
+    .custom-hero {
+        max-height: 600px;
+    }
+} */
